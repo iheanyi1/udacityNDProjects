@@ -1,0 +1,8 @@
+Steps To My Project: Deploying Static Website to S3 bucket.
+
+I uploaded my site folder to the my S3 bucket created
+Give it public access
+Use cloudfront to distribute
+Cloudfront generate a URL for the site.
+
+Here is the URL for the site: http://d3hkgtkk8nx6rf.cloudfront.net/
